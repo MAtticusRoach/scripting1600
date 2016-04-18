@@ -45,8 +45,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AnotherClass.cs" />
      <Compile Include="Assets\BasicSyntax.cs" />
+     <Compile Include="Assets\DataTypes.cs" />
+     <Compile Include="Assets\DoWhileLoop.cs" />
+     <Compile Include="Assets\ForEachLoop.cs" />
+     <Compile Include="Assets\ForLoop.cs" />
+     <Compile Include="Assets\If Statements.cs" />
+     <Compile Include="Assets\ScopeandAccess.cs" />
      <Compile Include="Assets\VariandFunc.cs" />
+     <Compile Include="Assets\WhileLoop.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
